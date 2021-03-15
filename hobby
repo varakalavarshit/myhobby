@@ -1,0 +1,29 @@
+<html>
+  <head>
+    <title>My Favorite hobby</title>
+      <link rel="stylesheet" href="main.css">
+    <style>
+    </style>
+ </head>
+  <ul class="menu2">
+      <li class="link">About&nbsp;&nbsp;&nbsp;</li>
+    <li class="link">My favorite players&nbsp;&nbsp;&nbsp;</li>
+    <li class="link">My work&nbsp;&nbsp;&nbsp;</li>
+    <li class="link">Inspiration&nbsp;&nbsp;&nbsp;
+    </li>
+    <li class="link">Contact&nbsp;&nbsp;&nbsp;</li>
+  <body>
+    <section>
+      <img src="https://dailygazette.com/wp-content/uploads/2020/07/Soccer-ball_0_0.jpg">
+      <h1> My Favorite Hobby is
+        <br><span id="name">Drawig</span></h1></div>
+    </section>
+  <h2>
+    I love Drawig
+  </h2>
+  <section id="bio">
+    <h1></h1><div class="line"></div>
+    <p>My hobby is drawing. I love to draw with different colours. I mostly draw pictures of people, animals and birds. I use crayons, pencils, colour pencils etc to draw pictures. For me, drawing is creation. Just like when an author writes a fiction book, they're creating life through words, an entire world within the pages of their book.</p>
+  </section>
+  </body>
+      </html>
